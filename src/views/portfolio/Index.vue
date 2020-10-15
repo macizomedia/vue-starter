@@ -5,7 +5,7 @@
     fluid
     tag="section"
   >
-    <headline />
+    <headline name="hello"/>
 
     <gallery />
   </v-container>
